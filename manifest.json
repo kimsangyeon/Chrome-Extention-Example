@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    
+    "name": "Hello_World",
+    "description": "Print Hello, World! message",
+    "version": "1.0"
+}
